@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(17, 242, 193);
+}
+
+h1 {
+  font-family: cursive;
+  font-size: 80px;
+  text-align: center;
+  color: rgb(255, 0, 225);
+  border: 2px solid red;
+  border-radius: 5px;
+}
+
+h2 {
+  color: rgb(0, 51, 255);
+  font-size: 40px;
+  font-style: italic;
+}
+
+h3 {
+    font-size: 60px;
+    color: rgb(0, 51, 255);
+    font-style: italic;
+    text-align: center;
+}
+
+p {
+  color: rgb(255, 21, 0);
+  font-size: 30px;
+  text-align: center;
+}
+
+li {
+  color: rgb(255, 21, 0);
+  font-size: 30px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
